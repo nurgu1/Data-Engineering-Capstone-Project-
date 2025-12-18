@@ -1,9 +1,9 @@
 # AWS Data Engineering Capstone Project
 
 **Course:** AWS Academy Data Engineering [136964]  
-**Lecturers:** Szabó Ildikó Borbásné, Bálint Mátyus  
+**Lecturers:** Szabó Ildikó Borbásné
 **Course:** Large Scale Data Architectures  
-**Student:** [Your Name]  
+**Student:** Nurgul Amirkhan
 **Date:** December 2025
 
 ---
